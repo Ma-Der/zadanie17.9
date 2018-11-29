@@ -1,0 +1,25 @@
+{
+  "name": "zadanie17.9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ma-Der/zadanie17.9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ma-Der/zadanie17.9/issues"
+  },
+  "homepage": "https://github.com/Ma-Der/zadanie17.9#readme",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "formidable": "^1.2.1"
+  }
+}
